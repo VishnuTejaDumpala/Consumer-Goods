@@ -1,6 +1,6 @@
 # Consumer-Goods-Ad-Hoc-Insights
 This project was one of the resume challenges conducted by Codebasics.
-LinkedIn Post [Link](https://www.linkedin.com/posts/mounikapalli_consumer-goods-adhoc-insights-activity-7182927642310946817-ptE7?utm_source=share&utm_medium=member_desktop)
+
 ## Overview
 Atliq Hardwares, a leading computer hardware producer in India with a significant presence in other countries, identified a need for better data insights to support quick and informed decision-making. To address this, I conducted a comprehensive SQL challenge to showcase and enhance our data querying skills and provide actionable insights.
 ## Objectives
